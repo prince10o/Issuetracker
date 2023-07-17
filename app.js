@@ -1,4 +1,4 @@
-app.js// All issues
+// All issues
 let currentIssues = [
     {
         id: "qm3bd",
